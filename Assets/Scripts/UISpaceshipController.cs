@@ -48,7 +48,7 @@ public class UISpaceshipController : MonoBehaviour
 		{
 			switch (this.spaceshipData[this.selectedIndexData].SpaceshipName)
 			{
-				case "Spaceship":
+				case "Spaceship Beginner":
 					this.spaceshipFactory.GetComponent<SpaceshipFactory>().CreateSpaceship(this.spaceshipHolder.gameObject);
 					break;
 				case "Spaceship Dragon":

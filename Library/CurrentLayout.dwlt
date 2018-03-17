@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 11
+  controlID: 55
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,8 +176,8 @@ MonoBehaviour:
     y: 0
     width: 244
     height: 631
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -365,9 +365,9 @@ MonoBehaviour:
     height: 610
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 2a060000
     m_LastClickedID: 0
-    m_ExpandedIDs: f4cfecff80d0ecffaed1ecff5c92f5ff3e5ff6ff8873f7ffcab2f7ffa6fbffff000000004a28000056280000982a0000522b0000
+    m_ExpandedIDs: 6ebdffff76bdffff9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,14 +417,14 @@ MonoBehaviour:
     width: 1206
     height: 610
   m_SceneLighting: 1
-  lastFramingTime: 25873.15893787256
+  lastFramingTime: 108.73504450797175
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.9336939, y: 3.5901756, z: -1.9274902}
+    m_Target: {x: -1.0982358, y: -0.17037416, z: -1.2614834}
     speed: 2
-    m_Value: {x: 0.9336939, y: 3.5901756, z: -1.9274902}
+    m_Value: {x: -1.0982358, y: -0.17037416, z: -1.2614834}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -447,13 +447,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.21914974, y: 0.44466805, z: -0.11336378, w: -0.8610414}
+    m_Target: {x: -0.21974233, y: 0.48452848, z: -0.12738594, w: -0.8370901}
     speed: 2
-    m_Value: {x: -0.21914975, y: 0.44466808, z: -0.11336379, w: -0.8610415}
+    m_Value: {x: -0.21974216, y: 0.48452812, z: -0.12738585, w: -0.8370895}
   m_Size:
-    m_Target: 16.836266
+    m_Target: 7.7727127
     speed: 2
-    m_Value: 16.836266
+    m_Value: 7.7727127
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -529,19 +529,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: D:\zilsel-invent\Eipix\Unity\Projects\PlatformGame
+  m_LastProjectPath: D:\GitHub\WipeoutLikePrototypeGame
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8a270000
-    m_LastClickedID: 10122
-    m_ExpandedIDs: 00000000182700008a270000e8270000f027000000ca9a3bffffff7f
+    m_SelectedIDs: 34270000
+    m_LastClickedID: 10036
+    m_ExpandedIDs: 000000001a2700009c2700002a2800003228000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -569,7 +569,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000182700008a270000e8270000
+    m_ExpandedIDs: 000000001a2700009c2700002a28000032280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
